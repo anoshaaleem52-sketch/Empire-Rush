@@ -1,6 +1,6 @@
 # Empire Rush 🎮
 
-> **Live Playable Demo:** [Play Empire Rush on Tesana](https://tesana.ai/play/91f85f42-7ab3-4d5e-8504-174b73e62e37)
+> **Live Playable Demo:** [Play Empire Rush on Tesana](https://tesana.ai/play/91f85f42-7ab3-4d5e-8584-174b73e62e37)
 
 ## Executive Summary
 Empire Rush is an interactive browser-based web game featuring dynamic state tracking, custom event loops, and responsive user interaction logic.
@@ -11,5 +11,5 @@ Empire Rush is an interactive browser-based web game featuring dynamic state tra
 * **Game Architecture:** Rapidly prototyped and deployed via web-native game engines.
 
 ## Repository & Links
-* **Live Demo:** [https://tesana.ai/play/91f85f42-7ab3-4d5e-8504-174b73e62e37](https://tesana.ai/play/91f85f42-7ab3-4d5e-8504-174b73e62e37)
+* **Live Demo:** [https://tesana.ai/play/91f85f42-7ab3-4d5e-8584-174b73e62e37](https://tesana.ai/play/91f85f42-7ab3-4d5e-8584-174b73e62e37)
 *
